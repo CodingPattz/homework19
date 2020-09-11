@@ -22,6 +22,11 @@ The user should be able to:
 
   * Filter the users by at least one property.
 
+## Screenshot
+![Screen1](screen1.png)
+## GIF
+![Employee Directory](video.gif)
+
 ## Commit Early and Often
 
 One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
