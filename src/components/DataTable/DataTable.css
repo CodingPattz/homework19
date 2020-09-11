@@ -1,0 +1,28 @@
+.datatable .col {
+    cursor: pointer;
+    background-color:#591616;
+    color: #F24444;
+    height: 30px;
+    font-family: poppins, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 15px;
+}
+
+.datatable .col .pointer:after {
+    font-size: 80%;
+    content: "";
+    margin-right: 18px;
+    font-family: poppins, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.datatable .col .pointer:hover:after {
+    font-size: 80%;
+    content: "🔻";
+    margin-right: 0;
+    font-family: poppins, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
