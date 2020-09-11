@@ -18,9 +18,9 @@
     font-style: normal;
 }
 
-.datatable .col .pointer:hover:after {
+.datatable .col .auto:after {
     font-size: 80%;
-    content: "🔻";
+    content: "  🔽 ";
     margin-right: 0;
     font-family: poppins, sans-serif;
     font-weight: 300;
